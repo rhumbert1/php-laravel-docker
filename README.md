@@ -19,3 +19,4 @@ A demo repo for deploying a Laravel PHP application on [Render](https://render.c
     | `APP_KEY`       | Copy the output of `php artisan key:generate --show`                   |
 
 That's it! Your Laravel 10 app will be live on your Render URL as soon as the build finishes. You can test it out by registering and logging in.
+
